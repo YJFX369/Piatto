@@ -2,8 +2,12 @@
 
 ## Requirement
 
-To be clarified
+1. 自动回复功能 
 
-## Usage
+1.1 在开发者中心设置回调URL和Token
 
-xxxxx
+1.2 设置成功后，在接收到用户信息时，自行根据需求通过代码进行回复
+
+
+
+
